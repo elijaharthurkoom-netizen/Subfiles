@@ -1,309 +1,400 @@
-WEBVTT
-
+1
 00:12.470 --> 00:14.472
 2014
 
+2
 00:15.015 --> 00:16.433
 Here's the money.
 
+3
 00:16.516 --> 00:17.684
 Thank you.
 
+4
 00:19.102 --> 00:20.562
 Have you had dinner yet?
 
+5
 00:23.690 --> 00:25.233
 Then you have to eat more.
 
+6
 00:25.316 --> 00:27.152
 Don't be a picky eater.
 
+7
 00:27.819 --> 00:30.363
 BEEF NOODLE SOUP AND ASSORTED SIDE DISHES
 
+8
 00:31.823 --> 00:34.367
 Menu is on the table. Sit.
 Order anything you want.
 
+9
 00:35.577 --> 00:37.328
 I have a customer. Gotta go.
 
+10
 00:39.998 --> 00:41.916
 Sorry for the wait. Ready to order?
 
+11
 00:44.961 --> 00:46.504
 One large beef noodle soup.
 
+12
 00:47.255 --> 00:53.261
 LIN'S EATERY
 
+13
 01:03.229 --> 01:05.440
 CLAIR DE LUNE
 
+14
 01:50.026 --> 01:51.861
 This is a 50-year-old noodle shop.
 
+15
 01:51.945 --> 01:54.280
 After last night's rain,
 with puddles still around,
 
+16
 01:54.364 --> 01:58.409
 the police cordoned off the area
 because of a murder.
 
+17
 01:58.493 --> 02:02.413
 The second-generation owner
 was brutally killed.
 
+18
 02:02.497 --> 02:05.500
 The police are investigating
 any financial motives behind the case.
 
+19
 02:05.583 --> 02:09.045
 The young owner was reportedly orphaned
 and raised by his grandmother.
 
+20
 02:09.129 --> 02:11.714
 He later took over her shop
 and began supporting her.
 
+21
 02:11.798 --> 02:15.260
 Neighbors say he was a filial child
 who was polite and liked by many.
 
+22
 02:15.343 --> 02:16.886
 But sadly, this happened.
 
+23
 02:16.970 --> 02:18.805
 The old lady also lost her grandson.
 
+24
 02:18.888 --> 02:22.142
 Influencer Chang En-ya, or Lisa,
 went missing two weeks ago.
 
+25
 02:22.225 --> 02:24.519
 The police had looked for
 security footage for days
 
+26
 02:24.602 --> 02:28.148
 but found that some cameras were damaged,
 
+27
 02:28.231 --> 02:29.649
 indicating a well-planned act.
 
+28
 02:29.732 --> 02:32.694
 The victim, Ti,
 was former councilor Ouyang Hsiang's son.
 
+29
 02:32.777 --> 02:33.903
 According to sources,
 
+29
 02:33.987 --> 02:36.573
 the police have learned
 the suspect's identity.
 
+30
 02:36.656 --> 02:40.160
 The suspect had a dispute with Ouyang Ti
 at school seven years ago
 
+31
 02:40.243 --> 02:41.911
 and stabbed Ouyang with a knife.
 
+32
 02:41.995 --> 02:44.330
 We'll continue to follow this story
 and keep you updated.
 
+33
 02:44.998 --> 02:47.917
 There was a chilling murder
 in central Taiwan this afternoon.
 
+34
 02:48.001 --> 02:52.380
 A 25-year-old man, Chuang, was dismembered
 and dumped in a plastic barrel.
 
+35
 02:52.463 --> 02:55.425
 When opened, a decaying,
 dismembered body was found.
 
+36
 02:55.508 --> 02:56.509
 Terrified, they promptly…
 
+37
 02:56.593 --> 03:00.096
 This family murder
 can almost be described as a bloodbath.
 
+38
 03:00.180 --> 03:01.848
 The suspect's methods are cruel.
 
+39
 03:01.931 --> 03:04.017
 He continued to bludgeon Wang
 even after he died,
 
+40
 03:04.100 --> 03:05.226
 and a young child was…
 
+41
 03:05.310 --> 03:08.438
 Serial murders in the past few months
 have caused widespread fear.
 
+42
 03:08.521 --> 03:10.064
 The murderer has finally been caught.
 
+43
 03:10.148 --> 03:13.902
 Li Jen-yao, dubbed "The Rainstorm Killer"
 by the media, is only 25 years old.
 
+44
 03:13.985 --> 03:17.405
 He turned himself in to the police
 after killing his father yesterday
 
+45
 03:17.488 --> 03:20.283
 and confessed to multiple murders.
 
+46
 04:45.451 --> 04:51.666
 HAD I NOT SEEN THE SUN
 
+47
 05:20.737 --> 05:21.738
 Don't.
 
+48
 05:21.821 --> 05:22.905
 Let me go. I beg you.
 
+49
 05:38.171 --> 05:42.258
 2023
 
+50
 05:52.101 --> 05:54.937
 It's because I read all these
 before falling asleep.
 
+51
 05:57.315 --> 05:59.734
 That's why I dreamed of
 being hunted down by myself.
 
+52
 06:17.251 --> 06:19.796
 Can I call in sick for having a nightmare?
 
+53
 06:50.410 --> 06:51.619
 Did you go buy groceries too?
 
+54
 06:51.702 --> 06:53.704
 Yeah. Hey, those scallions are expensive.
 
+55
 06:53.788 --> 06:55.331
 Yes, outrageously expensive.
 
+56
 06:55.415 --> 06:56.332
 Look, I didn't…
 
+57
 06:56.999 --> 06:58.000
 I think it's her.
 
+58
 06:58.084 --> 06:59.460
 I'll go ask.
 
+59
 07:00.169 --> 07:01.212
 Hello, miss.
 
+60
 07:01.295 --> 07:04.132
 Did you move in on the 18th floor?
 
+61
 07:04.215 --> 07:06.801
 Yes, I just moved in last week.
 
+62
 07:07.301 --> 07:08.845
 Sorry I haven't said hi.
 
+63
 07:08.928 --> 07:10.430
 It's okay.
 
+64
 07:10.513 --> 07:13.224
 Did you buy the place or rent it?
 
+65
 07:13.307 --> 07:14.725
 Is there anything wrong?
 
+66
 07:14.809 --> 07:16.519
 After moving in,
 
+67
 07:16.602 --> 07:21.315
 have you heard heels clacking at night
 
+68
 07:21.399 --> 07:24.569
 or your doorbell ringing continuously?
 
+69
 07:25.611 --> 07:26.446
 No.
 
+70
 07:26.529 --> 07:30.283
 You should've asked us longtime residents
 first before moving in
 
+71
 07:30.366 --> 07:32.034
 to see if this was a haunted place.
 
+72
 07:32.118 --> 07:33.661
 You wouldn't have been fooled.
 
+73
 07:33.744 --> 07:35.204
 -What?
 -That's right.
 
+74
 07:35.288 --> 07:36.914
 You say my place is haunted?
 
+75
 07:37.665 --> 07:40.668
 But… the natural lighting is great inside.
 
+76
 07:40.751 --> 07:44.255
 A very beautiful young lady
 used to live in your apartment.
 
+77
 07:44.338 --> 07:46.757
 She was killed on the mountain.
 
+78
 07:47.508 --> 07:49.552
 Killed on the mountain?
 
+79
 07:51.220 --> 07:53.014
 But she didn't die in her place.
 
+80
 07:53.514 --> 07:55.183
 I don't think it's haunted.
 
+81
 07:55.266 --> 07:57.935
 It's haunted if there are ghosts.
 
+82
 07:58.019 --> 08:01.189
 Back then,
 the alley was filled with reporters.
 
+83
 08:01.272 --> 08:02.982
 WE FILM PRODUCTIONS
 
+84
 08:03.065 --> 08:05.568
 STIGMATIZED PROPERTY SEARCH
 
+85
 08:09.071 --> 08:11.324
 Why redact the addresses?
 
+86
 08:11.407 --> 08:13.159
 How would I know which number it is?
 
+87
 08:14.744 --> 08:16.787
 Is my place really haunted?
 
+88
 08:20.416 --> 08:21.667
 Why are you so jumpy?
 
+89
 08:21.751 --> 08:23.503
 Afraid I'd catch you slacking?
 
+90
 08:23.586 --> 08:24.795
 No.
 
+91
 08:24.879 --> 08:26.422
 I was looking something up.
 
+92
 08:28.174 --> 08:29.091
 Come here.
 
